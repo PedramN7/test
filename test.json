@@ -127,7 +127,6 @@
       "domain_strategy": "prefer_ipv4",
       "fake_packets": "40-80",
       "fake_packets_size": "10-30",
-      "fake_packets_mode": "m4",
       "fake_packets_delay": "4-8"
     },
     {
